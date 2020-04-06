@@ -11,9 +11,9 @@
     <resource-root path="com.liferay.petra.reflect.jar" />
     <resource-root path="com.liferay.petra.string.jar" />
     <resource-root path="com.liferay.registry.api.jar" />
-    <resource-root path="hsql.jar" />
     <resource-root path="portal-kernel.jar" />
     <resource-root path="portlet.jar" />
+    <resource-root path="hsql.jar" />
     <resource-root path="ucp.jar"/>
     <resource-root path="ons.jar"/>
     <resource-root path="ojdbc10.jar" />
